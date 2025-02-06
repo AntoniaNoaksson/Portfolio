@@ -63,8 +63,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const experiences = [
         { title: 'Frontend Utvecklare - IT-högskolan', period: '2024-2026' },
         {
-            title: ' Vårdbiträde, Attendo Vegagatan',
-            period: 'september 2022- oktober 2023'
+            title: 'Vårdbiträde, Attendo Vegagatan',
+            period: 'september 2022 - oktober 2023'
         }
     ];
 
